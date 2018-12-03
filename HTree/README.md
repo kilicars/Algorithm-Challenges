@@ -2,7 +2,7 @@ An H-tree is a geometric shape that consists of a repeating pattern resembles th
 
 It can be constructed by starting with a line segment of arbitrary length, drawing two segments of the same length at right angles to the first through its endpoints, and continuing in the same vein, reducing (dividing) the length of the line segments drawn at each stage.
 
-Here is an example of an H-Tree of depth 0. ![depth_2](https://github.com/kilicars/Algorithm-Challenges/blob/master/HTree/htree_depth2.jpg)
+Here is an example of an H-Tree of depth 2. ![depth_2](https://github.com/kilicars/Algorithm-Challenges/blob/master/HTree/htree_depth2.jpg)
 
 And this is an example of an H-Tree of depth 5![depth_5](https://github.com/kilicars/Algorithm-Challenges/blob/master/HTree/htree_depth5.jpg)
 
