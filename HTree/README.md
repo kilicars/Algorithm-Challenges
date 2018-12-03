@@ -12,3 +12,5 @@ To hest the program I created a Windows Forms application and called the DrawHTr
         {
             DrawHTree(e.Graphics, 400, 200, 200, 5); //Depth 5
         }
+        
+The images added above are the outputs of this calls.
